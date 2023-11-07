@@ -1,0 +1,39 @@
+
+I
+todolistreplay/src/App.js,6\4\64d8ffc646bac042936c7b57f914f21741b05a8c
+P
+ todolistreplay/src/setupTests.js,a\c\ac86de1763c939ea270e27b66331ae5fd95194f4
+K
+todolistreplay/src/logo.svg,6\c\6cee21162e3a85559702fabb44ef44268700ac30
+U
+%todolistreplay/src/reportWebVitals.js,8\8\88cf08ca10fce9e08c2311d9d20f4ff62c188aec
+S
+#todolistreplay/public/manifest.json,d\2\d229500059b7013c761f3cc28e4a11c716cd5fa5
+P
+ todolistreplay/package-lock.json,e\3\e36573284eca08c5062c8b1a2bd3a67eb021ddd9
+P
+ todolistreplay/public/index.html,1\e\1e58586ef18bca863426a793fc6934ce7511d4d5
+H
+todolistreplay/yarn.lock,8\5\8576ec1361de9ed9881791ee279703c966a4987e
+J
+todolistreplay/src/App.css,8\1\81a8bebc4bd44fa8248aa98382ffea2b1faa7c01
+H
+todolistreplay/README.md,9\e\9e50b90f8ebc10967e484f342bd23d3068370016
+L
+todolistreplay/src/index.css,6\e\6efd15d8564865f01fa8d52b1e46581ddf1dc77d
+K
+todolistreplay/src/index.js,6\9\69153d145fa7599b858aee35afa9747cff76f7df
+N
+todolistreplay/src/App.test.js,e\9\e958e1d78e5995385c13adc1ee146b5a4706e2e6
+K
+todolistreplay/package.json,6\1\613f684c4a3e5302a7b40c978f306fb713ff5761
+I
+todolistreplay/.gitignore,4\b\4b510359eda8b057108a5c0738b89ae2fa61641f
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+P
+ todolistreplay/public/robots.txt,8\3\83d20b9bc18643997a81a4040effe5f53efe375a
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+Å
+Q.idea/sonarlint/securityhotspotstore/6/4/64d8ffc646bac042936c7b57f914f21741b05a8c,7\0\70d49c255ebb85d0558b5a0378a776089ab6a224
